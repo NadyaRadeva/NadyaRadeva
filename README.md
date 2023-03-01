@@ -7,4 +7,4 @@
 
 - 🔭 I’m currently working on university projects.
 - 🌱 I’m currently learning C++.
-- :stars:	My other hobbies are reading books, listening to music, travelling around Bulgaria, long bike rides.
+- :stars:	My other hobbies are reading books, listening to music, travelling around Bulgaria and long bike rides.
