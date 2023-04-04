@@ -5,7 +5,7 @@
 **_A CompSci undergraduate student at the Faculty of Mathematics and Informatics, Sofia University St. Kliment Ohridski, :bulgaria:	!_**
  :woman_technologist:	
 
-- 🔭 I’m currently working on university projects.
+- :tea:	 I’m currently working on university projects.
 - 🌱 I’m currently learning C++.
 - 🧠 Other languages I have learnt: C#, SQL
 - :stars:	My other hobbies and interests are reading books, listening to music, travelling around Bulgaria, long bike rides, History and Physics.
