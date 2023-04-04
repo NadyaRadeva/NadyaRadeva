@@ -7,5 +7,5 @@
 
 - 🔭 I’m currently working on university projects.
 - 🌱 I’m currently learning C++.
-- 🧠 Languages I have learnt: C#, MySQL
+- 🧠 Languages I have learnt: C#, SQL
 - :stars:	My other hobbies and interests are reading books, listening to music, travelling around Bulgaria, long bike rides, History and Physics.
