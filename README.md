@@ -11,3 +11,6 @@
 - 🌱 I’m currently learning C++.
 - 🧠 Other languages I have learnt: C#, SQL
 - :stars:	My other hobbies and interests are reading books, listening to music, travelling around Bulgaria, long bike rides, History and Physics.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadyaRadeva&show_icons=true&theme=nightowl)   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NadyaRadeva)
