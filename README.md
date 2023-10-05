@@ -12,4 +12,4 @@
 - :tea:	These days I am working on my university degree.
 - 🌱 I’m currently learning C++.
 - 🧠 Other languages I have learnt: C#, SQL
-- :stars:	My other hobbies and interests are reading books, listening to music, travelling around Bulgaria, long bike rides, History and Physics.
+- :stars:	My other hobbies and interests include reading books, listening to music, travelling around Bulgaria, long bike rides, History and Physics.
