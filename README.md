@@ -13,3 +13,5 @@
 - 🌱 I’m currently learning C++.
 - 🧠 Other languages I have learnt: C#, SQL
 - :stars:	My other hobbies and interests include reading books, listening to music, travelling around Bulgaria, long bike rides, History and Physics.
+
+![snake animation](https://github.com/NadyaRadeva/NadyaRadeva/NadyaRadeva/output/github-contribution-grid-snake.svg)
