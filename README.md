@@ -13,6 +13,6 @@
 - 🌱 I’m currently learning C++.
 - 🧠 Other languages I have learnt: C#, SQL
 - :stars:	My other hobbies and interests include reading books, listening to music, travelling around Bulgaria, long bike rides, History and Physics.
-- :book: Currently, I also have an Instagram page where I review books. also have an Instagram page where I review books.
+- :book: Currently, I also have an Instagram page where I review books.
 
 
