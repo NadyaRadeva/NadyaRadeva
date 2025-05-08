@@ -16,5 +16,5 @@
 - :book: Currently, I also have an Instagram page where I review books.
 
 
-## My Contribution snake
+
 ![Contribution snake example](https://github.com/NadyaRadeva/NadyaRadeva/blob/output/github-contribution-grid-snake.svg)
