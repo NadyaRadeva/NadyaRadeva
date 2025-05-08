@@ -6,7 +6,7 @@
 
 
 
-**_Undergraduate student at the Faculty of Mathematics and Informatics, Sofia University St. Kliment Ohridski, :bulgaria:	!_**
+**_Undergraduate student fighting for her life at the Faculty of Mathematics and Informatics, Sofia University St. Kliment Ohridski, :bulgaria:	!_**
  :woman_technologist:	
 
 - :tea:	These days I am working on my university degree.
